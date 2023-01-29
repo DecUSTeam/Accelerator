@@ -5,8 +5,8 @@
     "type": "module",
     "main": "gulpfile.js",
     "scripts": {
-        "dev": "",
-        "prod": ""
+        "dev": "node gulpfile.js",
+        "prod": "node gulpfile.js"
     },
     "repository": {
         "type": "git",
@@ -20,7 +20,7 @@
     },
     "homepage": "https://github.com/DecUSTeam/Accelerator#readme",
     "devDependencies": {
-        "config": "^3.3.9",
+        "dotenv": "^16.0.3",
         "gulp": "^4.0.2"
     }
 }

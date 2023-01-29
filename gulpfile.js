@@ -1,4 +1,8 @@
 'use strict';
 
 import gulp from 'gulp'    ;
-import config from 'config';
+(await import('dotenv')).config();
+
+import {} from './config.js';
+
+global.accel = {};
