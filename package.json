@@ -2,6 +2,7 @@
     "name": "accelerator",
     "version": "1.0.0",
     "description": "",
+    "type": "module",
     "main": "gulpfile.js",
     "scripts": {
         "dev": "",
@@ -17,5 +18,9 @@
     "bugs": {
         "url": "https://github.com/DecUSTeam/Accelerator/issues"
     },
-    "homepage": "https://github.com/DecUSTeam/Accelerator#readme"
+    "homepage": "https://github.com/DecUSTeam/Accelerator#readme",
+    "devDependencies": {
+        "config": "^3.3.9",
+        "gulp": "^4.0.2"
+    }
 }
