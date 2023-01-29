@@ -1,0 +1,21 @@
+{
+    "name": "accelerator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "gulpfile.js",
+    "scripts": {
+        "dev": "",
+        "prod": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DecUSTeam/Accelerator.git"
+    },
+    "keywords": [],
+    "author": "DecUS Team <decus.team@ya.ru>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/DecUSTeam/Accelerator/issues"
+    },
+    "homepage": "https://github.com/DecUSTeam/Accelerator#readme"
+}
